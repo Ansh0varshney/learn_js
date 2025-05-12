@@ -15,6 +15,7 @@ const student = {
     age: 20,
     isStudent: true,
     subjects: ["Math", "Science", "English"]
+    //greet be a function here
 }
 // object is a collection of key-value pairs
 // student is an object 
